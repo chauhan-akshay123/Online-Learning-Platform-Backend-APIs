@@ -2,6 +2,10 @@
 
 A robust API for an online learning platform built with Node.js, Express, MongoDB, and JWT authentication. This platform enables user registration, course enrollment, progress tracking, and secure payment processing.
 
+## API Documentation 
+- **LINK**: https://online-learning-platform-0hgt.onrender.com/api-docs 
+
+
 ## Features 🚀
 
 - **User Authentication**
