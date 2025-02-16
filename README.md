@@ -109,23 +109,6 @@ The API will be available at `http://localhost:5000`
 
 Full API documentation is available via Swagger at `/api-docs`
 
-## Deployment 🌐
-
-### Deploying to Render
-
-1. Push your code to GitHub:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. On Render:
-   - Create a new Web Service
-   - Connect your GitHub repository
-   - Configure environment variables
-   - Deploy
-
 ## Technology Stack 🛠️
 
 - **Backend Framework**: Node.js with Express
@@ -145,8 +128,7 @@ Full API documentation is available via Swagger at `/api-docs`
 ## Contact 📧
 
 - **Email**: chauhanakshay395@gmail.com
-- **Project Link**: [https://github.com/your-username/online-course-platform-api](https://github.com/your-username/online-course-platform-api)
-
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
