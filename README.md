@@ -50,8 +50,7 @@ online-course-platform-api/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-course-platform-api.git
-   cd online-course-platform-api
+   git clone https://github.com/chauhan-akshay123/Online-Learning-Platform-Backend-APIs.git
    ```
 
 2. Install dependencies:
